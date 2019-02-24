@@ -1,5 +1,5 @@
 # daybooking
-Simple community booking ajax script.  
+Simple community booking PHP and jQuery ajax script.
 No login, similar to shared google sheet: anyone with the link can edit.  
 For each day users can propose their a plan to a field, admin controls special admin field with approved programme.  
 Originally made for booking one rehearsal room.  
