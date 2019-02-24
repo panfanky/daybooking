@@ -5,4 +5,4 @@ For each day users can propose their a plan to a field, admin controls special a
 Originally made for booking one rehearsal room.  
 Stores data on keypress (keyup) to csv file.  
 
-Adminpass passed in GET var.
+Adminpass passed in GET var 'whoisthere'. Set it in config.php along with date range. Initially you get to approve with /?whoisthere=admin
